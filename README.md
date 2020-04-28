@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello world!
+
+My name is Viktor and im gona be a greatest hacker ever this world has seen!!!
